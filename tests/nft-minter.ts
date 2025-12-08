@@ -17,7 +17,7 @@ describe('NFT Minter', () => {
   const metadata = {
     name: 'Daniel NFT',
     symbol: 'DNFT',
-    uri: "https://github.com/danielkoh2/danielStaking/nft.json",
+    uri: "https://github.com/danielkoh2/nft-minter/blob/main/nft.json",
   };
 
   it('Create an NFT in Dev net!', async () => {
